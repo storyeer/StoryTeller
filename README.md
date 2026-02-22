@@ -1,8 +1,5 @@
 # 🎓 计算机人工智能方向复试展示档案
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=StoryTeller&show_icons=true&theme=vue)
-*(注：请在上方链接中将`StoryTeller`替换为您的实际 GitHub 用户名，以显示您的 GitHub 统计数据)*
-
 您好！我是 **黄信博**，就读于 **南京审计大学 数据科学与大数据技术** 专业（本科，2022.09-至今）。
 本仓库收录了我在本科及实习期间主导或参与的核心项目，旨在全面展示我的**学术研究能力**、**AI 工程落地经验**以及**数据分析与建模能力**。
 
