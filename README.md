@@ -1,14 +1,5 @@
 # 🎓 计算机/网络安全方向复试展示档案
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=storyeer&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" />
-</div>
-
 您好！我是 **黄信博**，就读于 **南京审计大学 数据科学与大数据技术** 专业（本科，2022.09-至今）。
 本仓库收录了我在本科及实习期间主导或参与的核心项目，旨在全面展示我的**学术研究能力**、**AI 工程落地经验**以及**数据分析与建模能力**。
 
